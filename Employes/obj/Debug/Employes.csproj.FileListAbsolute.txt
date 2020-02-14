@@ -1,0 +1,14 @@
+C:\Users\vvdruze1\source\repos\Employes\Employes\bin\Debug\App_Data\Employes.mdf
+C:\Users\vvdruze1\source\repos\Employes\Employes\bin\Debug\App_Data\Employes_log.ldf
+C:\Users\vvdruze1\source\repos\Employes\Employes\bin\Debug\Employes.exe.config
+C:\Users\vvdruze1\source\repos\Employes\Employes\bin\Debug\Employes.exe
+C:\Users\vvdruze1\source\repos\Employes\Employes\bin\Debug\Employes.pdb
+C:\Users\vvdruze1\source\repos\Employes\Employes\obj\Debug\Employes.csprojAssemblyReference.cache
+C:\Users\vvdruze1\source\repos\Employes\Employes\obj\Debug\Employes.Properties.Resources.resources
+C:\Users\vvdruze1\source\repos\Employes\Employes\obj\Debug\Employes.csproj.GenerateResource.cache
+C:\Users\vvdruze1\source\repos\Employes\Employes\obj\Debug\Employes.csproj.CoreCompileInputs.cache
+C:\Users\vvdruze1\source\repos\Employes\Employes\obj\Debug\Employes.exe
+C:\Users\vvdruze1\source\repos\Employes\Employes\obj\Debug\Employes.pdb
+C:\Users\vvdruze1\source\repos\Employes\Employes\obj\Debug\Employes.Form1.resources
+C:\Users\vvdruze1\source\repos\Employes\Employes\obj\Debug\Employes.Forms.NewEmploye.resources
+C:\Users\vvdruze1\source\repos\Employes\Employes\obj\Debug\Employes.Forms.DB.resources
